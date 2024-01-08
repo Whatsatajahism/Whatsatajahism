@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Whatsatajahism
-- 👀 I’m interested in learning how to code new languages to get on the path to become a web developer.
-- 🌱 I’m currently learning Ruby, and keeping up to date with Python.
+- 👋 Hi, I’m @Whatsatajahism and I go by Tajah (pronouns: They/Them)
+- 👀 I’m on the Founders and Coders FAC30 cohort, with an aim to become a junior software developer.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me ...
 
