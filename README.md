@@ -7,10 +7,10 @@
 - 💞️ I’m looking to collaborate on any project where I can learn from senior developers, and flex my new skills!
 
 # Languages I know
-Beginner
+## Beginner
 - Python
 - Ruby
-Intermediate
+## Intermediate
 - HTML
 - CSS
 - Javascript
