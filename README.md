@@ -1,3 +1,4 @@
+# About Me
 - 👋 Hi, I’m @Whatsatajahism on github and my name is Tajah irl (pronouns: They/Them)
 - 👀 I’m on the [Founders and Coders](https://www.foundersandcoders.com/) FAC30 cohort, with an aim to become a junior software developer. 
 - 🎓 I studied History at The University of Liverpool, with a focus on colonial and post-colonial history.
@@ -5,7 +6,7 @@
 - 🌱 I’m currently learning Javascript, and taught myself Ruby and Python via CodeAcademy and CodeFirstGirls.
 - 💞️ I’m looking to collaborate on any project where I can learn from senior developers, and flex my new skills!
 
-Reach me here
+# Reach me here
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tajah-hamilton-a0845242/)
 
 <!---
