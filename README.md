@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Whatsatajahism and I go by Tajah (pronouns: They/Them)
+- 👋 Hi, I’m @Whatsatajahism on github and my name is Tajah irl (pronouns: They/Them)
 - 👀 I’m on the [Founders and Coders](https://www.foundersandcoders.com/) FAC30 cohort, with an aim to become a junior software developer. 
 - 🎓 I studied History at The University of Liverpool, with a focus on colonial and post-colonial history.
 - 💼 I've worked in the Third Sector as a Client Account Manager and Senior International Programmes Officer, and most recently in the Higher Education sector as a Senior Project Officer. 
