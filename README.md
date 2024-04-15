@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m Tajah (pronouns: They/Them)
-- 👀 I’m on the [Ada](https://www.ada.ac.uk/) Lv 4 Software Development Apprentice pathway.
-- 🎓 I studied History at The University of Liverpool, with a focus on colonial and post-colonial history.
+- 🎓 I’m on the [Ada](https://www.ada.ac.uk/) Lv 4 Software Development Apprentice pathway.
+- 🎓 Before my career change, I studied History at The University of Liverpool, with a focus on colonial and post-colonial history.
 - 💼 I've worked in the Third Sector as a Client Account Manager and Senior International Programmes Officer, and most recently in the Higher Education sector as a Senior Project Officer. 
 - 🌱 I’m currently learning Javascript, and taught myself Ruby and Python via CodeAcademy and CodeFirstGirls.
 - 💞️ I’m looking to collaborate on any project where I can learn from senior developers, and flex my new skills!
